@@ -1,0 +1,12 @@
+[package]
+name = "brzozowski-regex"
+version = "0.1.0"
+authors = ["Hendrik van Antwerpen <hendrik@van-antwerpen.net>"]
+edition = "2021"
+description = "Brzozowski regular expressions"
+readme = "README.md"
+license = "Apache-2.0"
+categories = ["algorithms", "data-structures", "parsing"]
+
+[dependencies]
+itertools = "0.12"
